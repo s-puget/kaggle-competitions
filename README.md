@@ -29,3 +29,7 @@ competition-name/
 - **Feature Engineering**: Crafting meaningful features to improve model performance.
 - **Machine Learning**: Implementing and fine-tuning models such as logistic regression, random forests, gradient boosting, and deep learning.
 - **Model Evaluation**: Assessing model performance with metrics like accuracy, F1-score, RMSE, etc.
+
+
+## Kaggle profile
+Feel free to visit my [Kaggle profile](https://www.kaggle.com/stephanpuget).

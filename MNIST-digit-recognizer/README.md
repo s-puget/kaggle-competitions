@@ -6,7 +6,8 @@ This repository contains my solution for the **Digit Recognizer** competition on
 
 ## 📁 Contents  
 - `digit-recognizer.ipynb` → Complete analysis, preprocessing, and model training  
-- `submission.csv` → Final submission file  
+- `submission.csv` → Final submission file
+- `model.keras` → Recognition model   
 
 ## 🚀 Summary  
 The notebook includes:  

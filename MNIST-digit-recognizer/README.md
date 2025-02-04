@@ -15,5 +15,3 @@ The notebook includes:
 ✔️ **Data Preprocessing** – Normalizing images, reshaping for CNN input, synthetic data generation.
 ✔️ **Modeling** – Training a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras**.  
 ✔️ **Evaluation** – Using a **confusion matrix** and accuracy metrics to assess performance.  
-
-### 📊 Best Score Achieved:  0.98996

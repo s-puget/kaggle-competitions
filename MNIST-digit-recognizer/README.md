@@ -12,6 +12,6 @@ This repository contains my solution for the **Digit Recognizer** competition on
 ## 🚀 Summary  
 The notebook includes:  
 ✔️ **EDA & Data Visualization** – Displaying sample digits, analyzing distributions.  
-✔️ **Data Preprocessing** – Normalizing images, reshaping for CNN input, synthetic data generation.
+✔️ **Data Preprocessing** – Normalizing images, reshaping for CNN input, synthetic data generation.  
 ✔️ **Modeling** – Training a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras**.  
 ✔️ **Evaluation** – Using a **confusion matrix** and accuracy metrics to assess performance.  

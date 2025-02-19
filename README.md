@@ -7,6 +7,7 @@ Below is a list of competitions I have participated in, along with links to thei
 
 - [Titanic Survival Prediction](https://github.com/s-puget/kaggle-competitions/tree/main/titanic-survival-prediction)
 - [MNIST Digit Recognizer](https://github.com/s-puget/kaggle-competitions/tree/main/MNIST-digit-recognizer)
+- [Product Sales Quantity Prediction](https://github.com/s-puget/kaggle-competitions/tree/main/Product-Sales-Quantity-Prediction)
 
 
 ## Repository Structure
